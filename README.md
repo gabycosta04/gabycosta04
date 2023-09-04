@@ -6,7 +6,7 @@
 
 ### 🙂 About me:
 
-I'm 20 years old and I'm Full-Stack Developer from Argentina
+I'm 22 years old and I'm Full-Stack Developer from Argentina
 
 🔭 I’m currently working on Soluciones SA as a CRM Consultant
 📚 I’m currently studying informatic systems engineering 
