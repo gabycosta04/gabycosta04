@@ -8,9 +8,9 @@
 
 I'm 22 years old and I'm Full-Stack Developer from Argentina
 
-🔭 I’m currently working on Soluciones SA as a CRM Consultant
-📚 I’m currently studying informatic systems engineering 
-🌱 I want to improve my skills at Back-End and learn about Cloud ☁️
+🔭 I’m currently working on YPF SA as a Data Specialist
+📚 I’m currently studying Computer Science engineering 
+🌱 I want to improve my skills at Back-End and learn about Cloud and Artificial Intelligence ☁️
 
 <br />
 
