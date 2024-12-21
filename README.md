@@ -6,7 +6,7 @@
 
 ### 🙂 About me:
 
-I'm 22 years old and I'm Full-Stack Developer from Argentina
+I'm 23 years old and I'm Full-Stack Developer from Argentina
 
 🔭 I’m currently working on YPF SA as a Data Specialist <br />
 📚 I’m currently studying Computer Science engineering <br />
